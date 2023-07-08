@@ -48,6 +48,4 @@ The model's performance is evaluated using standard regression evaluation metric
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-Car Price Prediction Using ML
-
-https://carcostpredictor.streamlit.app/
+Web App link: https://carcostpredictor.streamlit.app/
